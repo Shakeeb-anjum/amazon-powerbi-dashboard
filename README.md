@@ -45,4 +45,13 @@ The dashboard helps stakeholders understand sales behavior and make data-driven 
 ## 🖼 Dashboard Preview
 Screenshots of the dashboard are available in the `screenshots/` folder.
 
+🚀 How to Use
+
+Download the .pbix file
+
+Open it in Power BI Desktop
+
+Refresh data if required
+
+Use slicers and filters to explore insights
 
